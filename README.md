@@ -2,7 +2,6 @@
 
 A modern, fully responsive **portfolio website** built using **React**, **Tailwind CSS**, and **Lucide Icons**, showcasing my projects, skills, and professional journey as an **Android & Full-Stack Developer**.  
 
-![Portfolio Preview](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ---
 
@@ -71,5 +70,6 @@ npm run dev
 📍 Nagpur, India
 💻 Android & Full-Stack Developer
 📧 turakayush@gmail.com
+
 
 
